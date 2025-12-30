@@ -1,6 +1,1 @@
-spring:
- datasource:
-  url: jdbc:mysql://localhost:3306/startup_crm_db
-  username: "root"
-  password: "@Lucky777"
-  driver-class-name: com.mysql.cj.jdbc.Driver
+
